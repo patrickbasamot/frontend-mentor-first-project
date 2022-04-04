@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/patrickbasamot/frontend-mentor-first-project)
-- Live Site URL: [Add live site URL here](https://patrickbasamot.github.io/frontend-mentor-first-project/)
+- Solution URL: [My Solution](https://github.com/patrickbasamot/frontend-mentor-first-project)
+- Live Site URL: [Live Demo](https://patrickbasamot.github.io/frontend-mentor-first-project/)
 
 ## My process
 
