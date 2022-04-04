@@ -56,16 +56,14 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ### Useful resources
 
-- [Example resource 1](https://www.https://developer.mozilla.org/en-US/.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.w3schools.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Mozilla Developer Site](https://www.https://developer.mozilla.org/en-US/.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [w3schools](https://www.w3schools.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/patrickbasamot)
-- Twitter - [@yourusername](https://www.twitter.com/patrickbasamot)
+- Frontend Mentor - [@patrickbasamot](https://www.frontendmentor.io/profile/patrickbasamot)
 
 
 
